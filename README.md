@@ -1,5 +1,5 @@
 <h1><a href="https://esteecodes.github.io/Modern-HTML-CSS-and-SASS-Brad-Udemy/7-EdgeLedger-Website-Flexbox/" target="_blank">EdgeLedger</a></h1>
-<p>Finantial firm website</p>
+<h3>Financial firm website</h3>
 <p>This project is part of the</p>
 <h2>Modern HTML, CSS and SASS</h2>
 <p>course by Brad Traversy on Udemy<br>
