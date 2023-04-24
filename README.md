@@ -1,4 +1,4 @@
-<h1><a href="https://monacodelisa.github.io/Modern-HTML-CSS-and-SASS-Brad-Udemy/7-EdgeLedger-Website-Flexbox/" target="_blank">EdgeLedger</a></h1>
+<h1><a href="https://monacodelisa.github.io/EdgeLedger/" target="_blank">EdgeLedger</a></h1>
 <h3>Financial firm website</h3>
 <p>This project is part of the</p>
 <h2>Modern HTML, CSS and SASS</h2>
