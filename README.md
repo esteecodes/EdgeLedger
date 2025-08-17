@@ -1,4 +1,4 @@
-<h1><a href="https://esthersoftwaredev.github.io/EdgeLedger/" target="_blank">EdgeLedger</a></h1>
+<h1><a href="https://esteecodes.github.io/EdgeLedger/" target="_blank">EdgeLedger</a></h1>
 <h3>Financial firm website</h3>
 <p>This project is part of the</p>
 <h2>Modern HTML, CSS and SASS</h2>
@@ -10,10 +10,10 @@ which I was taking around - Sep 15, 2021</p>
 
 ## 🔗 More Projects  
 Check out my latest and more elaborate projects on my website:  
-🌐 **[esthersoftware.dev](https://esthersoftware.dev)**  
+🌐 **[esteecodes.com](https://esteecodes.com)**  
 
 ---
 
 Thank you for visiting! 😊  
   
-<a href='https://ko-fi.com/monacodelisa' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/esteecodes' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
